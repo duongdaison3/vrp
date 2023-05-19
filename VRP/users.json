@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "623cb7ca5a321f58cc964b81"
+  },
+  "name": "khanhbatluc",
+  "email": "khanh@gmail.com",
+  "salt": "4639bc30699860144754d147a151a13d",
+  "hash": "c6ca7e2292afbcfa762e7d892fe7f3353e966e9ff500a9547c63d8ecb099b24a55aa1e33ee228d0a54b4f92d142165b686c1e4fb77f8dc9d0f6479eb0590fdd4",
+  "__v": 0
+}]
